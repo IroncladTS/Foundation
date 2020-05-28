@@ -78,7 +78,7 @@ Here are some key areas we'd like to continue to explore.
 
 ---
 
-##Team
+## Team
 
 We are a cross-functional team of writers, editors, strategists, technologists, and designers who all work in government and have a wealth of experience creating modern digital services.
 
