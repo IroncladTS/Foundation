@@ -40,7 +40,7 @@
 
 ## Setting the stage for the interview
 
-The following is an email template that we'll use to reach out to people we'd like to interview
+:envelope: The following is an email template that we'll use to reach out to people we'd like to interview
 
 
 ```
