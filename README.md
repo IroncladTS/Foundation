@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/395641/83133997-b1bf9600-a0b1-11ea-90ac-37f15f59ca36.png)
+![image](https://user-images.githubusercontent.com/395641/83134163-f2b7aa80-a0b1-11ea-865c-0ab86b824c44.png)
 
 # Foundation Project
 ## Templates for documenting a user-centered product strategy
